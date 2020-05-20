@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "firebase-react-native-kadai",
+    "slug": "firebase-react-native-kadai",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/dog-paw.png",
+    "splash": {
+      "image": "./assets/dog-paw.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
